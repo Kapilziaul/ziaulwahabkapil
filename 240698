@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title></title>
+</head>
+<body background="6.jpg" style="background-repeat:no-repeat">
+  <marquee> <font color="white" size="4">স্বাগতম স্বাগতম স্বাগতম</font></marquee>
+<p align="center"><font color="white" size="5">GOVT. HAZI MOHAMMAD MOHSIN COLLAGE<br> </font>
+  
+<p align="center"><font color="Blue" size="4">সরকারি হাজী মুহাম্মদ মহসিন কলেজ <br> </font>
+<p align="center"><font color="green" size="3"><b><u>Hazi mohammad mohsin college </u></b><br> </font>
+  <div style="border:2px dotted rgb(255,255,0);height:20px;width:46px;float:left; margin-right:4px;">
+<a href="Home.html"><font color="Mejenda">HOME</font></a>
+  </div>
+  <div style="border:2px dotted rgb(255,255,0);height:20px;width:84px;float:left;margin-right:4px;">
+   <a href="Teacher's.html"><font color="mejenda">TEACHER'S</font></a>
+  </div>
+  <div style="border:2px dotted rgb(255,255,0);height:20px;width:46px;float:left;margin-right:4px;">
+    <a href="Form.html"><font color="mejenda">FORM</a>
+  </div>
+  <div style="border:2px dotted rgb(255,255,0);height:20px;width:55px;float:left;margin-right:4px;">
+    <a href="Result.html"><font color="mejenda">RESULT</a>
+  </div>
+  <div style="border:2px dotted rgb(255,255,0);height:20px;width:72px;float:left;margin-right:4px;">
+ <a href="Address.html"><font color="mejenda">ADDRESS</a>
+  </div>
+  <p align="center"> <font color="white " size="2">
+Government Hazi Mohammad Mohsin College (Bengali: সরকারি হাজী মুহাম্মদ মহসিন কলেজ) (alternatively spelled Government Hazi Muhammad Mohsin College) is one of the renowned colleges of Bangladesh located in Chittagong, Bangladesh. Named after Muhammad Mohsin, a 19th-century philanthropist, it is one of the oldest educational institutions in the country. Originally established in British India. It offers HSC (Classes 11-12) in the national curriculum. 
+      </font>
+      &copy;
+</div>
+</body>
+</html>
