@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title></title>
+</head>
+<body>
+ <form>
+ <pre>
+  <u> GOVERNMENT HAZI MOHAMMAD MOHSIN COLLAGE</u>
+   
+  NAME         : <Input type="text"><br>
+  FATHER'S NAME: <Input type="text"><br>
+  MATHER'S NAME: <Input type="text"><br>
+  BLOOD GROUP  :<input type="checkbox">B+<input type="checkbox">B-<input type="checkbox">AB-<br>
+  EDUCATION    :<input type="checkbox">JSC<input type="checkbox">SSC<input type="checkbox">HSC<br>
+  BOARD        :<input type="checkbox">CTG<input type="checkbox">DHAKA<input type="checkbox">BORISHAL<br>
+  GENDER       :<Input type="radio" name="A"> MALE <input type="radio"name="A">FEMALE<br>
+  NATIONALITY  : <select>
+          <option></OPTION>
+          <option>BANGLADESH</OPTION>
+          <option>INDIA</OPTION>
+          <option>SRILANKA</OPTION>
+          <option>MOLDIPS</OPTION>
+        </select><br>
+  MOBILE NUMBER:<INPUT TYPE="TEXT"><br>
+  NID          :<input type="password"><br>
+  ADDRESS      :<textarea> </textarea>
+  </Form>
+  </pre>
+</body>
+</html>
